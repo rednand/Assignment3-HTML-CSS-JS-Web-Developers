@@ -1,1 +1,13 @@
+/*HEADER*/
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+/*ENF HEADER*/
+/*MAIN CONTENT*/
 
+#main-content{
+    background-color: rgb(202, 199, 199);
+}
+/*END MAIN CONTENT*/
