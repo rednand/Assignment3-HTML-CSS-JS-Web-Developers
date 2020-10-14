@@ -56,13 +56,21 @@ a.nav-link:hover {
     margin-top: 20px;
 }
 
-p {
+section {
     margin: 1px 15px 40px 15px;
     border: 2px solid cadetblue;
     padding: 10px;
     background-color: rgb(255, 220, 220);
 }
+#chicken,#beef,#sushi{
+border-bottom: hidden;
+text-align: center;
+margin-bottom: -1px;
+}
+#section{
+    border-top: hidden;
 
+}
 #menu-title {
     text-shadow: 2px 2px rgb(241, 199, 199);
 }
