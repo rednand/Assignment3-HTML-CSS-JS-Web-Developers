@@ -1,3 +1,6 @@
-Assignment for module 3 of "HTML, CSS e Javascript para Desenvolvedores Web" Course 
+# Tarefa para módulo 3 do curso "HTML, CSS e Javascript para Desenvolvedores Web" 
 
-gh pages : https://rednand.github.io/assignment3/
+Página simples para estudar estilização com Bootstrap 4.
+
+
+### github page : https://rednand.github.io/Site-curso-HTML-CSS-JS-Web-Developers/
